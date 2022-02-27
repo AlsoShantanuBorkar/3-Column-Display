@@ -48,7 +48,7 @@ Learnt how to Customise Buttons, Use Variables and Use Transitions.
 
 ### Useful resources
 
-- [Youtube Video](https://www.youtube.com/watch?v=2Wy_MJPDfCw) - 
+- [Youtube Video](https://www.youtube.com/watch?v=2Wy_MJPDfCw) 
 
 ## Author
 
