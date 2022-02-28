@@ -120,7 +120,7 @@ p{
 .attribution a {
     color: hsl(228, 45%, 44%);
     transition: all 0.4s ease;
-    text-decoration:none
+    text-decoration:none;
 }
 .attribution a:hover{
     color: lightblue;
