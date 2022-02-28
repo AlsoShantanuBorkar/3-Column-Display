@@ -49,7 +49,7 @@ p{
     cursor: pointer;
     transition: all 0.5s ease-in-out;
     background-color: var(--Very-light-gray);
-    
+    text-decoration: none;
 }
 
 .btn a{
